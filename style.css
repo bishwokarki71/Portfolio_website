@@ -24,7 +24,7 @@ body {
 
 .header-background {
     background: linear-gradient(rgba(255, 254, 253, 0.7), rgba(255, 254, 253, 0.9)), 
-                url("/Users/bishwokarki/Portfolio/WEBsite/me1.JPG") center center fixed;
+                url("me1.jpg") center center fixed;
     background-size: cover;
     text-align: center;
     height: 100vh; 
